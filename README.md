@@ -20,6 +20,7 @@ I am a fullstack software engineer from Bulgaria
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white(https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)" />
 
+<img align="left" alt="medium" src="https://img.shields.io/badge/php-%23316192.svg?&style=for-the-badge&logo=php&logoColor=white(https://img.shields.io/badge/php-%23316192.svg?&style=for-the-badge&logo=php&logoColor=white)" />
 
 <br>
 <br>
