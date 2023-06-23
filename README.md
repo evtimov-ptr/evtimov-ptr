@@ -1,7 +1,7 @@
  ### Hello World 👋
 I am a fullstack software engineer from Bulgaria
 
-- 🔭 Working on multiple frontend and backend project using React, PHP and Drupal
+- 🔭 Working on multiple frontend and backend projects using React and Drupal
 - 🌱 Learning design patterns in depth
 <br>
 
